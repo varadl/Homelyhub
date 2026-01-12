@@ -46,7 +46,7 @@ HomelyHub/
 ```bash
 cd backend
 npm install
-npm start
+npm run dev
 ```
 
 (Create a `.env` file for MongoDB connection)
