@@ -60,4 +60,4 @@ JWT_SECRET=your_secret_key
 ⚠️ .env is not included in this repository for security reasons.
 
 3️⃣ Start server
-npm start
+npm run dev
